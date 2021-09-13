@@ -1,1 +1,1 @@
-From k8s.gcr.io/ingress-nginx/controller:v1.0.0
+From k8s.gcr.io/defaultbackend-amd64
